@@ -95,6 +95,7 @@ a{
     font-size: 1;
     font-weight: 500;
     flex: 1;
+    margin-left: 40px;
 }
 
 .btn img{
@@ -108,7 +109,7 @@ a{
 
 .action-container{
     display: flex;
-    margin: 1rem 0;
+    margin: 2rem 0;
 }
 
 @media (max-width: 512px){
